@@ -30,7 +30,7 @@ My goal is to combine my experience in **networking/support** with my new skills
 
 ### 📫 Connect with Me
 
-- [LinkedIn Profile](PON_AQUI_TU_ENLACE_DE_LINKEDIN)
+- [LinkedIn Profile](https://www.linkedin.com/in/wilberth-alejandro-camacho-doblado-330374198/)
 - **Email:** walejandrocamacho@gmail.com
 
-![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical)
+![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=WTHACD&show_icons=true&theme=radical)
