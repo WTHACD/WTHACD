@@ -1,6 +1,6 @@
-# Hi there, I'm Alejandro Camacho! 👋
+# Hi there, I'm Alejandro Camacho!
 
-## 👨‍💻 Software Development Student | Network Technician
+## Software Development Student | Network Technician
 
 Currently, I am pursuing a degree in Software Development at **BYU-Idaho**, where I am building strong foundations in databases, programming, and modern development practices. I enjoy solving technical challenges, improving processes, and learning continuously to stay up to date with new technologies.
 
@@ -8,7 +8,7 @@ My goal is to combine my experience in **networking/support** with my new skills
 
 ---
 
-### 🛠 Skills & Technologies
+### Skills & Technologies
 
 - **Languages:** C#, JavaScript, SQL, HTML, CSS.
 - **Networking:** CCNA concepts, Structured Cabling, Troubleshooting.
@@ -16,7 +16,7 @@ My goal is to combine my experience in **networking/support** with my new skills
 
 ---
 
-### 🚀 Projects
+### Projects
 
 **ZenPips (Concept)**
 *Designing a platform focused on Forex trading strategies and market analysis.*
@@ -28,7 +28,7 @@ My goal is to combine my experience in **networking/support** with my new skills
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 - [LinkedIn Profile](https://www.linkedin.com/in/wilberth-alejandro-camacho-doblado-330374198/)
 - **Email:** walejandrocamacho@gmail.com
